@@ -2,6 +2,7 @@
 - 🔭 Hoje trabalho com <b>front-end</b> e um pouco de <b>back-end</b>
 - 😄 Pronouns: ele/dele
 - ⛪ Sou membro de <b>A Igreja de Jesus Cristo dos Santos dos Últimos Dias</b>
+- 🌱 Aprendendo Game Maker Language
 
 <div align="center">
   <a href="https://github.com/ismaelnascimento">

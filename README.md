@@ -26,12 +26,10 @@
   <a href="https://www.youtube.com/channel/UCycGPuEvug9Rs-WXzQrAG0A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/maell_nascimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ismael.nascimento.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
 </div>
-
-- Criador do jogo <b>Up Birds (em desenvolvimento)</b>
-
-<iframe frameborder="0" src="https://itch.io/embed/1660858?linkback=true&amp;bg_color=1f2022&amp;fg_color=fff&amp;link_color=1981f7&amp;border_color=1981f7" width="552" height="167"><a href="https://maelponto.itch.io/up-birds">Up Birds by maelponto</a></iframe>
-
-
-<iframe frameborder="0" src="https://itch.io/embed/1660858?linkback=true&amp;bg_color=1f2022&amp;fg_color=fff&amp;link_color=1981f7&amp;border_color=1981f7" width="552" height="167"><a href="https://maelponto.itch.io/up-birds">Up Birds by maelponto</a></iframe>
+  
+### Criador do jogo <b>Up Birds (em desenvolvimento)</b>
+  
+  
+<a href="https://itch.io/embed/1660858?bg_color=1f2022&fg_color=fff&link_color=1981f7&border_color=1981f7"><img src="https://firebasestorage.googleapis.com/v0/b/up-birds.appspot.com/o/WhatsApp%20Image%202022-09-07%20at%2011.38.33.jpeg?alt=media&token=8f7a4de6-ff48-4771-9cf9-52fd27cc2f6c" target="_blank"></a>
+ 

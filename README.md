@@ -31,5 +31,5 @@
 ### Criador do jogo <b>Up Birds (em desenvolvimento)</b>
   
   
-<a href="https://itch.io/embed/1660858?bg_color=1f2022&fg_color=fff&link_color=1981f7&border_color=1981f7"><img src="https://firebasestorage.googleapis.com/v0/b/up-birds.appspot.com/o/WhatsApp%20Image%202022-09-07%20at%2011.38.33.jpeg?alt=media&token=8f7a4de6-ff48-4771-9cf9-52fd27cc2f6c" target="_blank"></a>
+<a target="_blank" href="https://itch.io/embed/1660858?bg_color=1f2022&fg_color=fff&link_color=1981f7&border_color=1981f7"><img src="https://firebasestorage.googleapis.com/v0/b/up-birds.appspot.com/o/WhatsApp%20Image%202022-09-07%20at%2011.38.33.jpeg?alt=media&token=8f7a4de6-ff48-4771-9cf9-52fd27cc2f6c" target="_blank"></a>
  

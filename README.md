@@ -28,3 +28,10 @@
   <a href = "mailto:ismael.nascimento.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
+
+- Criador do jogo <b>Up Birds (em desenvolvimento)</b>
+
+<iframe frameborder="0" src="https://itch.io/embed/1660858?linkback=true&amp;bg_color=1f2022&amp;fg_color=fff&amp;link_color=1981f7&amp;border_color=1981f7" width="552" height="167"><a href="https://maelponto.itch.io/up-birds">Up Birds by maelponto</a></iframe>
+
+
+<iframe frameborder="0" src="https://itch.io/embed/1660858?linkback=true&amp;bg_color=1f2022&amp;fg_color=fff&amp;link_color=1981f7&amp;border_color=1981f7" width="552" height="167"><a href="https://maelponto.itch.io/up-birds">Up Birds by maelponto</a></iframe>

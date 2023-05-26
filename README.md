@@ -1,7 +1,7 @@
 ### Olá eu sou Ismael Nascimento 👋
 - 🔭 Hoje trabalho com <b>front-end</b> e um pouco de <b>back-end</b>
 - ⛪ Sou membro de <b>A Igreja de Jesus Cristo dos Santos dos Últimos Dias</b>
-- 🌱 Aprendendo Game Maker Language
+- 🌱 Aprendendo Python
 
 <div align="center">
   <a href="https://github.com/ismaelnascimento">

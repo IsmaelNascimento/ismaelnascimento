@@ -16,7 +16,6 @@
   <img align="center" alt="Mael-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Mael-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Mael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="right" style="object-fit: cover" alt="Mael-GIF" height="120" width="200" src="https://i.pinimg.com/originals/c7/4c/66/c74c6685c89d05f24a46c7fb74d9e866.gif">
 </div>
   
   ##

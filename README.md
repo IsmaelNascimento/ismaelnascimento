@@ -18,7 +18,7 @@
   <img align="center" alt="Mael-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Mael-FIREBASE" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Mael-MONGODB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Mael-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Mael-NODEJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Mael-FLUTTER" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Mael-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
@@ -31,7 +31,7 @@
   <a href = "mailto:ismael.nascimento.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
-### My game <b>Up Birds (under development) | Created with Javacript</b>
+### My game <b>Up Birds (under development) | Created with Pure Javacript</b>
   
   
 <a target="_blank" href="https://itch.io/embed/1660858?bg_color=1f2022&fg_color=fff&link_color=1981f7&border_color=1981f7"><img src="https://firebasestorage.googleapis.com/v0/b/up-birds.appspot.com/o/WhatsApp%20Image%202022-09-07%20at%2011.38.33.jpeg?alt=media&token=8f7a4de6-ff48-4771-9cf9-52fd27cc2f6c" target="_blank"></a>

@@ -1,7 +1,7 @@
 ### Hello I'm Ismael Nascimento 
 - I currently study at IFCE, studying IT
 - <b>lds.org</b>
-- 🌱 Learning Deep Learning and Typescript
+- 🌱 Learning Java, models of Computer Vision, Typescript
 
 <div align="center">
   <a href="https://github.com/ismaelnascimento">

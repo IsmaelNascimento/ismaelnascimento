@@ -1,6 +1,6 @@
 ### Hello I'm Ismael Nascimento 
 - I currently study at IFCE, studying IT
-- <b>lds.org</b>
+- <b>lds.org/comeuntochrist</b>
 - 🌱 Learning Java, models of Computer Vision and Typescript
 
 <div align="center">
